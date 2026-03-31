@@ -1,6 +1,6 @@
 # Conversando por voz com o ChatGPT utilizando Whisper (OpenAI) e python
 
-Este projeto é uma demonstração da DIO pelo Google Colab. Você pode acessar o código-fonte clicando [aqui.](https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b?usp=sharing) 
+Este projeto é uma demonstração da DIO pelo Google Colab. Você pode acessar o código-fonte original clicando [aqui.](https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b?usp=sharing) 
 
 ## Como começar
 
